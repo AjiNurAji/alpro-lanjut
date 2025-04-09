@@ -4,7 +4,7 @@ Berikut kodingan tiap pertemuan
     <a target="_blank" href="https://github.com/AjiNurAji/alpro-lanjut/tree/pertermuan_2">Pertemuan 2</a>
   </li>
   <li>
-    <a target="_blank" href="https://github.com/AjiNurAji/alpro-lanjut/tree/pertermuan_3">Pertemuan 3</a>
+    <a target="_blank" href="https://github.com/AjiNurAji/pandas-alpro">Pertemuan 3</a>
   </li>
   </li>
   <li>
